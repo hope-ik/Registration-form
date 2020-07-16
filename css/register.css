@@ -1,0 +1,85 @@
+.table_1{
+	/* 居中样式（要有宽度） */
+	margin:0 auto;
+	width: 800px;
+}
+
+hr{
+    width: 800px;
+    background-color: red;
+    height: 3px;
+    border-width: 0px;
+}
+
+#return{
+	/*设置文字对其方式*/
+	text-align: right;
+}
+
+#td_img{
+	width: 344px;
+}
+
+#zc{
+	text-align: left;
+}
+
+a{
+	color:#000;
+	/* 去除下划线 */
+	text-decoration: none;
+}
+
+.table_2{
+	margin:0 auto;
+	margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.td_1{
+    color: #666666;
+    font-size: 20px;
+    text-align: right;
+}
+
+.txt{
+	width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 2px;
+    box-shadow: 5px 5px 15px #ccc;
+}
+
+#sel_1{
+	width: 253px;
+    height: 33px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 2px;
+    box-shadow: 5px 5px 15px #ccc;
+}
+
+.sel{
+	height: 33px;
+    width: 79px;
+	border-radius: 5px;
+	/* 设置圆角 */
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 2px;
+    /* 设置阴影 第一个值控制水平偏移量 第二个值控制垂直偏移量 第三个值控制模糊程度 第四格值控制阴影颜色 */
+    box-shadow: 5px 5px 15px #ccc;
+}
+
+#btn{
+	width: 250px;
+    height: 45px;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 5px;
+}
